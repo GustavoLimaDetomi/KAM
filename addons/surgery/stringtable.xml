@@ -1027,6 +1027,7 @@
             <Japanese>創面切除に必要な医療レベル</Japanese>
             <German>Benötigter medizinischer Grad, um Debridement &amp; NPWT-Verband zu nutzen</German>
             <French>Autoriser le débridement</French>
+            <Portuguese>Permitir desbridamento</Portuguese>
         </Key>
         <Key ID="STR_KAT_Surgery_SETTING_DebridementAction_Location">
             <English>Locations Debridement</English>
@@ -1034,6 +1035,7 @@
             <Japanese>創面切除が可能な場所</Japanese>
             <German>Ort für die durchführung von Debridement &amp; NPWT-Verband</German>
             <French>Lieux permettant le débridement</French>
+            <Portuguese>Lugares para desbridamento</Portuguese>
         </Key>
         <Key ID="STR_KAT_Surgery_SubCategory_Basic">
             <English>Basic Settings</English>

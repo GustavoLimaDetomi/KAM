@@ -870,6 +870,7 @@
             <Japanese>聴診器での聴診にかかる時間</Japanese>
             <German>Stethoskop-Hörzeit</German>
             <Czech>Čas poslechu Stetoskopem</Czech>
+            <Portuguese>Tempo de auscultação com estetoscópio</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_stethoscopeListeningTime_DESC">
             <English>Sets how long the stethoscope listening period is</English>
@@ -880,6 +881,7 @@
             <Japanese>聴診器での聴診を実行するのにかかる時間を設定します</Japanese>
             <German>Legt fest, wie lange es dauert um mit dem Stethoskop abzuhören</German>
             <Czech>Nastavuje dobu trvání poslechu Stetoskopem</Czech>
+            <Portuguese>Define por quanto tempo ocorre o período de auscultação com o estetoscópio</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_SpO2_unconscious">
             <English>Unconscious SpO2 value</English>
@@ -1412,6 +1414,7 @@
             <Japanese>パルスオキシメータのアラーム有効化</Japanese>
             <German>Aktiviere Pulsoximeter Alarm</German>
             <Czech>Zapnout alarm Pulzního Oxymetru</Czech>
+            <Portuguese>Habilitar alarme do Pulse Oximeter</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PulseOximeter_Action_removeSound">
             <English>Disable Pulse Oximeter Alarm</English>
@@ -1422,6 +1425,7 @@
             <Japanese>パルスオキシメータのアラーム無効化</Japanese>
             <German>Deaktiviere Pulsoximeter Alarm</German>
             <Czech>Vypnout alarm Pulzního Oxymetru</Czech>
+            <Portuguese>Desabilitar alarme do Pulse Oximeter</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_Threshold_SpO2Warning">
             <English>Pulse Oximeter Alarm SpO2 Threshold</English>
@@ -1432,6 +1436,7 @@
             <Japanese>パルスオキシメータのアラームのSpO2しきい値</Japanese>
             <German>Pulsoximeter Alarm Grenzwert</German>
             <Czech>Práh SpO2 pro aktivaci alarmu Pulzního Oxymetru</Czech>
+            <Portuguese>Nivel limite de Sp02 para acionar o alarme do Pulse Oximeter</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_UseBVM">
             <English>Use BVM</English>
@@ -1442,6 +1447,7 @@
             <Japanese>BVMを使用する</Japanese>
             <German>Verwende BVM</German>
             <Czech>Použít RV</Czech>
+            <Portuguese>Usar BVM</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_UseBVM_Progress">
             <English>Using BVM</English>
@@ -1452,6 +1458,7 @@
             <Japanese>BVMを使用中</Japanese>
             <German>Beatme mit BVM</German>
             <Czech>Používání RV</Czech>
+            <Portuguese>Usando BVM</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_UsePocketBVM">
             <English>Use Pocket BVM</English>
@@ -1462,6 +1469,7 @@
             <Japanese>ポケットBVMを使用する</Japanese>
             <German>Verwende Tachen BVM </German>
             <Czech>Použít Kapesní RV</Czech>
+            <Portuguese>Usar BVM Portátil</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_UsePocketBVM_Progress">
             <English>Using Pocket BVM</English>
@@ -1472,6 +1480,7 @@
             <Japanese>ポケットBVMを使用中</Japanese>
             <German>Beatme mit Taschen BVM</German>
             <Czech>Používání Kapesního RV</Czech>
+            <Portuguese>Usando BVM Portátil</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_UseBVM_PortableOxygen">
             <English>Use BVM with Oxygen Tank</English>
@@ -1482,6 +1491,7 @@
             <Japanese>BVMと酸素ボンベを使用する</Japanese>
             <German>Verwende BVM mit Sauerstofftank</German>
             <Czech>Použít RV s Kyslíkovou Lahví</Czech>
+            <Portuguese>Usar BVM com Tanque de Oxigênio</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_UseBVM_PortableOxygen_Progress">
             <English>Using BVM with Oxygen Tank</English>
@@ -1492,6 +1502,7 @@
             <Japanese>BVMと酸素ボンベを使用中</Japanese>
             <German>Beatme mit BVM und Sauerstofftank</German>
             <Czech>Používání RV s Kyslíkovou Lahví</Czech>
+            <Portuguese>Usando BVM com Tanque de Oxigênio</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_UseBVM_Oxygen">
             <English>Use BVM with Oxygen</English>
@@ -1502,6 +1513,7 @@
             <Japanese>BVMと酸素を使用する</Japanese>
             <German>Verwende BVM mit Sauerstoff</German>
             <Czech>Použít RV s Kyslíkem</Czech>
+            <Portuguese>Usar BVM com Oxigênio</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_UseBVM_Oxygen_Progress">
             <English>Using BVM with Oxygen</English>
@@ -1512,6 +1524,7 @@
             <Japanese>BVMと酸素を使用中</Japanese>
             <German>Beatme mit BVM und Sauerstoff</German>
             <Czech>Používání RV s Kyslíkem</Czech>
+            <Portuguese>Usando BVM com Oxigênio</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PortableOxygenTankDisconnected_Empty">
             <English>Oxygen tank disconnected (empty)</English>
@@ -1522,6 +1535,7 @@
             <Japanese>酸素ボンベが切断されました (空)</Japanese>
             <German>Sauerstofftank entfernt (leer)</German>
             <Czech>Kyslíková Lahev odpojena (prázdná)</Czech>
+            <Portuguese>Tanque de Oxigênio desconectado (vazio)</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_RefillPortableOxygenTank_Progress">
             <English>Refilling Portable Oxygen Tank</English>
@@ -1532,6 +1546,7 @@
             <Japanese>携帯用酸素ボンベを補充中</Japanese>
             <German>Befülle tragbaren Sauerstofftank</German>
             <Czech>Plnění přenosné Kyslíkové Lahve</Czech>
+            <Portuguese>Reabastecendo Tanque de Oxigênio Portátil</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_RefillPortableOxygenTank_Complete">
             <English>Oxygen Tank Refill Complete</English>
@@ -1542,6 +1557,7 @@
             <Japanese>酸素ボンベの補充が完了しました</Japanese>
             <German>Sauerstofftank Befüllung abgeschlossen</German>
             <Czech>Plnění Kyslíkové Lahve dokončeno</Czech>
+            <Portuguese>Reabastecimento de Tanque de Oxigêncio Completo</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_RefillPortableOxygenTank_Cancel">
             <English>Oxygen Tank Refill Cancelled</English>
@@ -1552,6 +1568,7 @@
             <Japanese>酸素ボンベの補充が中断されました</Japanese>
             <German>Sauerstofftank Befüllung abgebrochen</German>
             <Czech>Plnění Kyslíkové Lahve zrušeno</Czech>
+            <Portuguese>Reabastecimento de Tanque de Oxigênio Cancelado </Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_RefillPortableOxygenTanks">
             <English>Refill Portable Oxygen Tank</English>
@@ -1562,6 +1579,7 @@
             <Japanese>携帯用酸素ボンベ を補充する</Japanese>
             <German>Nachfüllen des tragbaren Sauerstofftanks</German>
             <Czech>Naplnit přenosnou Kyslíkovou Lahev</Czech>
+            <Portuguese>Reabastecer o Tanque de Oxigênio Portátil</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_RefillPortableOxygenTank_150">
             <English>Refill Portable Oxygen Tank (150L)</English>
@@ -1572,6 +1590,7 @@
             <Japanese>携帯用酸素ボンベ (150L) を補充</Japanese>
             <German>Nachfüllen des tragbaren Sauerstofftanks (150L)</German>
             <Czech>Naplnit přenosnou Kyslíkovou Lahev (150L)</Czech>
+            <Portuguese>Reabastecer o Tanque de Oxigênio Portátil (150L)</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_RefillPortableOxygenTank_300">
             <English>Refill Portable Oxygen Tank (300L)</English>
@@ -1582,6 +1601,7 @@
             <Japanese>携帯用酸素ボンベ (150L) を補充</Japanese>
             <German>Nachfüllen des tragbaren Sauerstofftanks (300L)</German>
             <Czech>Naplnit přenosnou Kyslíkovou Lahev (300L)</Czech>
+            <Portuguese>Reabastecer o Tanque de Oxigênio Portátil (300L)</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_BVM_Display">
             <English>BVM</English>
@@ -1592,6 +1612,7 @@
             <Japanese>バッグバルブマスク (BVM)</Japanese>
             <German>BVM</German>
             <Czech>RV</Czech>
+            <Portuguese>BVM</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_BVM_Desc_Short">
             <English>Bag-Valve-Mask, used to assist with breathing of unconscious patients</English>
@@ -1602,6 +1623,7 @@
             <Japanese>意識を失った患者の呼吸補助に使用</Japanese>
             <German>Die Beutelventilmaske wird benutzt um die Atmung von bewustlosen Patienten zu unterstützen</German>
             <Czech>Resuscitační Vak, používá se k pomoci s dýcháním pacientů v bezvědomí</Czech>
+            <Portuguese>Bolsa-Válvula-Máscara. Usada para ajudar com a respiração de pacientes inconscientes</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PocketBVM_Display">
             <English>Pocket BVM</English>
@@ -1612,6 +1634,7 @@
             <Japanese>ポケットBVM</Japanese>
             <German>Taschen BVM</German>
             <Czech>Kapesní RV</Czech>
+            <Portuguese>BVM Portátil</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PocketBVM_Desc_Short">
             <English>Compact version of the Bag-Valve-Mask</English>
@@ -1622,6 +1645,7 @@
             <Japanese>バッグバルブマスク (Bag-Valve-Mask) の小型携帯版</Japanese>
             <German>Die kompakte Version der Beutelventilmaske</German>
             <Czech>Kompaktní verze Resuscitačního Vaku</Czech>
+            <Portuguese>Versão compacta da Bolsa-Válvula-Máscara</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PortableOxygenTank_150_Display">
             <English>Portable Oxygen Tank (150L)</English>
@@ -1632,6 +1656,7 @@
             <Japanese>携帯用酸素ボンベ (150L)</Japanese>
             <German>Tragbarer Sauerstofftank (150L)</German>
             <Czech>Přenosná Kyslíková Lahev (150L)</Czech>
+            <Portuguese>Tanque de Oxigênio Portátil (150L)</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PortableOxygenTank_150_Desc_Short">
             <English>Portable Oxygen Tank, containing 150L of oxygen. Connect to BVM to further assist with breathing of critical patients.</English>
@@ -1642,6 +1667,7 @@
             <Japanese>150Lの酸素が入った携帯酸素ボンベ。BVMに接続し重篤患者の呼吸補助に使用。</Japanese>
             <German>Der tragbare Sauerstofftank enthält 150L Sauerstoff. Er ist ausgelegt, um an die BVM angeschlossen zu werden und bei der Beatmung zu helfen. </German>
             <Czech>Přenosná Kyslíková Lahev, obsahuje 150L kyslíku. Připojením k RV lze zajistit dýchání pacientům v kritickém stavu.</Czech>
+            <Portuguese>Tanque de Oxigênio Portátil. Contém 150L de oxigênio. Conecte a BVM para auxiliar ainda mais na respiração de pacientes críticos.</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PortableOxygenTank_300_Display">
             <English>Portable Oxygen Tank (300L)</English>
@@ -1652,6 +1678,7 @@
             <Japanese>携帯用酸素ボンベ (150L)</Japanese>
             <German>Tragbarer Sauerstofftank (300L)</German>
             <Czech>Přenosná Kyslíková Lahev (300L)</Czech>
+            <Portuguese>Tanque de Oxigênio Portátil (300L) </Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PortableOxygenTank_300_Desc_Short">
             <English>Portable Oxygen Tank, containing 300L of oxygen. Connect to BVM to further assist with breathing of critical patients.</English>
@@ -1662,6 +1689,7 @@
             <Japanese>150Lの酸素が入った携帯酸素ボンベ。BVMに接続し重篤患者の呼吸補助に使用。</Japanese>
             <German>Der tragbare Sauerstofftank enthält 300L Sauerstoff. Er ist ausgelegt, um an die BVM angeschlossen zu werden und bei der Beatmung zu helfen. </German>
             <Czech>Přenosná Kyslíková Lahev, obsahuje 300L kyslíku. Připojením k RV lze zajistit dýchání pacientům v kritickém stavu.</Czech>
+            <Portuguese>Tanque de Oxigênio Portátil. Contém 300L de oxigênio. Conecte a BVM para auxiliar ainda mais na respiração de pacientes críticos.</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PortableOxygenTank_150_Empty_Display">
             <English>Empty Portable Oxygen Tank (150L)</English>
@@ -1672,6 +1700,7 @@
             <Japanese>空の携帯用酸素ボンベ (150L)</Japanese>
             <German>Leerer tragbarer Sauerstofftank (150L)</German>
             <Czech>Prázdná Kyslíková Lahev (150L)</Czech>
+            <Portuguese>Tanque de Oxigênio Portátil Vazio (150L)</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PortableOxygenTank_300_Empty_Display">
             <English>Empty Portable Oxygen Tank (300L)</English>
@@ -1682,6 +1711,7 @@
             <Japanese>空の携帯用酸素ボンベ (150L)</Japanese>
             <German>Leerer tragbarer Sauerstofftank (300L)</German>
             <Czech>Prázdná Kyslíková Lahev (300L)</Czech>
+            <Portuguese>Tanque de Oxigênio Portátil Vazio (300L)</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_PortableOxygenTank_Empty_Desc_Short">
             <English>Empty Portable Oxygen Tank, refill at a medical vehicle or facility</English>
@@ -1692,6 +1722,7 @@
             <Japanese>空になった携帯用酸素ボンベ。医療用車両または施設で補充可能。</Japanese>
             <German>Leere tragbarer Sauerstofftank und befülle ihn neu bei einem medizinischen Fahrzeug oder Einrichtung. </German>
             <Czech>Prázdná Kyslíková Lahev, lze doplnit u zdravotnického vozidla či zařízení.</Czech>
+            <Portuguese>Tanque Portátil de Oxigênio vazio, recarregue em um veículo ou instalação médica</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_BVMTime">
             <English>BVM Use Time</English>
@@ -1702,6 +1733,7 @@
             <Japanese>BVMの使用にかかる時間</Japanese>
             <German>BVM Benutzungszeit</German>
             <Czech>Doba použití RV</Czech>
+            <Portuguese>Tempo de Uso da BVM</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_BVMTime_DESC">
             <English>Sets BVM usage period length</English>
@@ -1712,6 +1744,7 @@
             <Japanese>BVMの使用期間の長さを設定</Japanese>
             <German>Legt die Länge des BVM-Nutzungszeitraums fest</German>
             <Czech>Nastavuje dobu k použití RV</Czech>
+            <Portuguese>Define o período de duração do uso da BVM</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_BVM_MedLvl">
             <English>Allow BVM</English>
@@ -1722,6 +1755,7 @@
             <Japanese>BVMの許可</Japanese>
             <German>Erlaube BVM</German>
             <Czech>Povolit RV</Czech>
+            <Portuguese>Permitir BVM</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_BVM_MedLvl_DESC">
             <English>Sets required medical level to use BVM</English>
@@ -1732,6 +1766,7 @@
             <Japanese>BVMの使用に必要な医療レベルを設定します</Japanese>
             <German>Benötigter medizinischer Grad, um die BVM zu nutzen</German>
             <Czech>Nastavuje požadovanou zdravotnickou úroveň pro použití RV</Czech>
+            <Portuguese>Definir o nível médico requerido para usar a BVM</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_PocketBVM_MedLvl">
             <English>Allow Pocket BVM</English>
@@ -1742,6 +1777,7 @@
             <Japanese>ポケットBVMの許可</Japanese>
             <German>Erlaube Taschen BVM</German>
             <Czech>Povolit Kapesní RV</Czech>
+            <Portuguese>Permitir BVM Portátil</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_PocketBVM_MedLvl_DESC">
             <English>Sets required medical level to use Pocket BVM</English>
@@ -1752,6 +1788,7 @@
             <Japanese>ポケットBVMの使用に必要な医療レベルを設定します</Japanese>
             <German>Benötigter medizinischer Grad, um die Taschen BVM zu nutzen</German>
             <Czech>Nastavuje požadovanou zdravotnickou úroveň pro použití Kapesního RV</Czech>
+            <Portuguese>Definir o nível médico requerido para usar a BVM Portátil</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_BVM_Oxygen_MedLvl">
             <English>Allow BVM with oxygen</English>
@@ -1762,6 +1799,7 @@
             <Japanese>BVMと酸素の併用の許可</Japanese>
             <German>Erlaube BVM mit Sauerstoff</German>
             <Czech>Povolit RV s Kyslíkem</Czech>
+            <Portuguese>Permitir BVM com Oxigênio</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_BVM_Oxygen_MedLvl_DESC">
             <English>Sets required medical level to use BVM with oxygen</English>
@@ -1772,6 +1810,7 @@
             <Japanese>酸素で BVM を使用するために必要な医療レベルを設定します</Japanese>
             <German>Benötigter medizinischer Grad, um die BVM mit Sauerstoff zu nutzen</German>
             <Czech>Nastavuje požadovanou zdravotnickou úroveň pro použití RV s kyslíkem</Czech>
+            <Portuguese>Definir o nível médico requerido para usar a BVM com oxigênio</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_PortableOxygenTank_RefillTime">
             <English>Portable Oxygen Tank Base Refill Time</English>
@@ -1782,6 +1821,7 @@
             <Japanese>携帯用酸素ボンベの補充にかかる基準時間</Japanese>
             <German>Tragbarer Sauerstofftank Grundlegende Nachfüllzeit</German>
             <Czech>Základní čas pro naplnění přenosné Kyslíkové Lahve</Czech>
+            <Portuguese>Tempo Base para Carregar o Tanque de Oxigênio Portátil</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_PortableOxygenTank_RefillTime_DESC">
             <English>Sets time required to refill Oxygen Tank (150L)</English>
@@ -1792,6 +1832,7 @@
             <Japanese>携帯用酸素ボンベ (150L) の補充にかかる時間を設定します</Japanese>
             <German>Legt die Dauer des Nachfüllens eines 150L Sauerstofftanks fest</German>
             <Czech>Nastavuje čas požadovaný k naplnění Kyslíkové Lahve (150L)</Czech>
+            <Portuguese>Definir o tempo requerido para carregar o Tanque de Oxigênio (150L)</Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SetPreferredOxygenTank_150">
             <English>Set Portable Oxygen Tank (150L) as preferred</English>
@@ -1802,6 +1843,7 @@
             <Japanese>携帯用酸素ボンベ (150L) を優先に設定</Japanese>
             <German>Definiere den 150L Sauerstofftank als bevorzugte Variante</German>
             <Czech>Nastavit přenosnou Kyslíkovou Lahev (150L) jako preferovanou</Czech>
+            <Portuguese>Define o Tanque de Oxigênio Portátil (150L) como preferêncial </Portuguese>
         </Key>
         <Key ID="STR_KAT_Breathing_SetPreferredOxygenTank_300">
             <English>Set Portable Oxygen Tank (300L) as preferred</English>
@@ -1812,6 +1854,7 @@
             <Japanese>携帯用酸素ボンベ (300L) を優先に設定</Japanese>
             <German>Definiere den 300L Sauerstofftank als bevorzugte Variante</German>
             <Czech>Nastavit přenosnou Kyslíkovou Lahev (300L) jako preferovanou</Czech>
+            <Portuguese>Define o Tanque de Oxigênio Portátil (300L) como preferêncial</Portuguese>
         </Key>
     </Package>
 </Project>
